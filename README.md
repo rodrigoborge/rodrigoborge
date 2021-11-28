@@ -35,8 +35,8 @@
 ##
 
 
-  <a href=" https://discordapp.com/users/406679417407143936" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/discord-badge.png" target="_blank"></a> 
-  <a href = "mailto:rodrigo@borge.com.br"><img src="https://borge.com.br/wp-content/uploads/2021/11/email-badge.png" target="_blank"></a>
+  <a href="https://discordapp.com/users/406679417407143936"><img src="https://borge.com.br/wp-content/uploads/2021/11/discord-badge.png" target="_blank"></a> 
+  <a href ="mailto:rodrigo@borge.com.br"><img src="https://borge.com.br/wp-content/uploads/2021/11/email-badge.png" target="_blank"></a>
   <a href="https://fb.com/rodrigoborge" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/facebook-badg.png" target="_blank"></a>
   <a href="https://www.instagram.com/rodrigoborge1/" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/instagram-badge.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigoborge/" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/linkedin-badg.png" target="_blank"></a>
