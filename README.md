@@ -1,9 +1,10 @@
 ### Olá, mundo. Eu sou o Rodrigo! 🖖🏽
 
-- 👨‍💻 Atualmete trabalho como Analista de Marketing Digital;
+- 🎓 Publicitário
+- 🌐 Atualmete trabalho como Analista de Marketing Digital;
 - 🛒 Sou responsável pelos e-commerces da empresa;
 - 📦 Também empreendo com e-commerces próprios;
-- 🖥️ Estudando Front-end;
+- 💻 Estudando Front-end;
   
 <div align="left">
   <!-- <a href="https://github.com/rodrigoborge"> -->
