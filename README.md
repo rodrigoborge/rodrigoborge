@@ -2,8 +2,8 @@
 
 - 📍 Atualmete trabalho como Analista de Marketing Digital;
 - 🛒 Sou responsável pelos e-commerces da empresa;
-- 📦 Além disso empreendo com e-commerces próprios;
-- 🖥️ Estou estudando Front-end;
+- 📦 Também empreendo com e-commerces próprios;
+- 🖥️ Estudando Front-end;
   
 <div align="left">
   <a href="https://github.com/rodrigoborge">
