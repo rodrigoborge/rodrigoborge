@@ -11,7 +11,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&layout=compact&langs_count=7&theme=radical"/>
 </div>  
   
-##  
+##
   
  </div>
 <div style="display: inline_block"><br>
@@ -40,4 +40,6 @@
  	<a href="https://www.twitch.tv/mntnh4" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/twitch-badge.png" target="_blank"></a> 
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   
+##
+
   ![Snake animation](https://github.com/rodrigoborge/rodrigoborge/blob/output/github-contribution-grid-snake.svg)
