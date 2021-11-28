@@ -8,7 +8,8 @@
 <div align="left">
   <!-- <a href="https://github.com/rodrigoborge"> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoborge&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&layout=compact&langs_count=7&theme=radical"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&layout=compact&langs_count=7&theme=radical"/>
 </div>  
   
 
@@ -33,6 +34,7 @@
   
 ##
 
+
   <a href=" https://discordapp.com/users/406679417407143936" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/discord-badge.png" target="_blank"></a> 
   <a href = "mailto:rodrigo@borge.com.br"><img src="https://borge.com.br/wp-content/uploads/2021/11/email-badge.png" target="_blank"></a>
   <a href="https://fb.com/rodrigoborge" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/facebook-badg.png" target="_blank"></a>
@@ -41,6 +43,8 @@
  	<a href="https://www.twitch.tv/mntnh4" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/twitch-badge.png" target="_blank"></a> 
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   
+  
 ##
+
 
   ![Snake animation](https://github.com/rodrigoborge/rodrigoborge/blob/output/github-contribution-grid-snake.svg)
