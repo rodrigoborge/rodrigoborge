@@ -1,6 +1,6 @@
 ### Olá, mundo. Eu sou o Rodrigo! 🖖🏽
 
-- 📍  Atualmete trabalho como Analista de Marketing Digital;
+- 👨‍💻 Atualmete trabalho como Analista de Marketing Digital;
 - 🛒 Sou responsável pelos e-commerces da empresa;
 - 📦 Também empreendo com e-commerces próprios;
 - 🖥️ Estudando Front-end;
