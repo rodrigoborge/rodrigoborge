@@ -14,7 +14,7 @@
   
 
   
- </div>
+</div>
 <div style="display: inline_block"><br>
     <a href="https://github.com/rodrigoborge/rodrigoborge"> <img align="center" alt="Rodrigo-Apple" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg"></a>
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Chrome" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/chrome/chrome-original.svg"></a>
