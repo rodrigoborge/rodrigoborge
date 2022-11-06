@@ -16,9 +16,9 @@
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg"></a>
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg"></a>
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"></a>
-    <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Github" height="30" width="40" src="https://borge.com.br/wp-content/uploads/2021/11/github-logo.svg"></a>
+    <!-- <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Github" height="30" width="40" src="https://borge.com.br/wp-content/uploads/2021/11/github-logo.svg"></a> -->
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-VisualStudioCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg"></a>
-    <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Wordpress" height="30" width="40" src="https://borge.com.br/wp-content/uploads/2021/11/wordpress-logo.svg"></a>
+    <!-- <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Wordpress" height="30" width="40" src="https://borge.com.br/wp-content/uploads/2021/11/wordpress-logo.svg"></a> -->
 </div>
   
 <!-- ##
