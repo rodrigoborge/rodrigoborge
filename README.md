@@ -1,9 +1,6 @@
 ### Olá, mundo. Eu sou o Rodrigo! 🖖🏽
 
 - 🎓 Publicitário
-- 🌐 Atualmete trabalho como Analista de Marketing Digital;
-- 🛒 Sou responsável pelos e-commerces da empresa;
-- 📦 Também empreendo com e-commerces próprios;
 - 💻 Estudando Front-end;
 
 <br>
@@ -24,8 +21,8 @@
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Wordpress" height="30" width="40" src="https://borge.com.br/wp-content/uploads/2021/11/wordpress-logo.svg"></a>
 </div>
   
-##
-<br>
+<!-- ##
+<<br>
 
 <div align="center" style="display: inline_block">
     <a href="https://discordapp.com/users/406679417407143936"><img src="https://borge.com.br/wp-content/uploads/2021/11/discord-badge.png" target="_blank"></a> 
@@ -34,8 +31,8 @@
     <a href="https://www.instagram.com/rodrigoborge1/" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/instagram-badge.png" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rodrigoborge/" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/linkedin-badg.png" target="_blank"></a>
     <a href="https://www.twitch.tv/mntnh4" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/twitch-badge.png" target="_blank"></a> 
-  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-</div>
+   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div> -->
 
 ##
 
