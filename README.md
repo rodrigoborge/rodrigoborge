@@ -22,7 +22,7 @@
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg"></a>
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></a>
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-VUE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></a>
-    <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-NPM" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"></a>
+    <!-- <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-NPM" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"></a> -->
     <!-- <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"></a> -->
     <!-- <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Github" height="30" width="40" src="https://borge.com.br/wp-content/uploads/2021/11/github-logo.svg"></a> -->
     <!-- <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-Figma" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></a> -->
