@@ -13,7 +13,7 @@
 <br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rodrigoborge&bg_color=000000&color=dfea1a&line=0fffff&point=eeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+##
 <div align="center" style="display: inline_block"><br>
         <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-VisualStudioCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg"></a>
     <a href="https://github.com/rodrigoborge/rodrigoborge"><img align="center" alt="Rodrigo-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg"></a>
