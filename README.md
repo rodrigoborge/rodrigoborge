@@ -30,20 +30,4 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigoborge1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoborge)e="display: inline_block">
-    <a href="https://discordapp.com/users/406679417407143936"><img src="https://borge.com.br/wp-content/uploads/2021/11/discord-badge.png" target="_blank"></a> 
-    <a href ="mailto:rodrigo@borge.com.br"><img src="https://borge.com.br/wp-content/uploads/2021/11/email-badge.png" target="_blank"></a>
-    <a href="https://fb.com/rodrigoborge" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/facebook-badg.png" target="_blank"></a>
-    <a href="https://www.instagram.com/rodrigoborge1/" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/instagram-badge.png" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/rodrigoborge/" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/linkedin-badg.png" target="_blank"></a>
-    <a href="https://www.twitch.tv/mntnh4" target="_blank"><img src="https://borge.com.br/wp-content/uploads/2021/11/twitch-badge.png" target="_blank"></a> 
-   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div> -->
-
-##
-
-<div align="center">
-
-  ![Snake animation](https://github.com/rodrigoborge/rodrigoborge/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigoborge1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoborge)
