@@ -22,10 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rodrigoborge&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rodrigoborge&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=rodrigoborge&icon=2&color=12)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigoborge1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoborge)
