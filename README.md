@@ -3,6 +3,7 @@
 - 💻 Studying Front-end;
 
 
+
 # 💻 Tech Stack:
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Rodrigo-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg">
@@ -22,6 +23,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rodrigoborge&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigoborge1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoborge)
