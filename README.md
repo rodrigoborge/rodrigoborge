@@ -14,11 +14,11 @@
     <img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
     <img align="center" alt="Rodrigo-Next.js" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
     <img align="center" alt="Rodrigo-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Rodrigo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
+    <!-- <img align="center" alt="Rodrigo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
     <img align="center" alt="Rodrigo-C++.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Rodrigo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
     <img align="center" alt="Rodrigo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
-    <img align="center" alt="Rodrigo-Figma" height="28" width="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+    <img align="center" alt="Rodrigo-Figma" height="28" width="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> -->
 </div>
 
 # 📊 GitHub Stats:
