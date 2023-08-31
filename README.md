@@ -21,13 +21,13 @@
     <img align="center" alt="Rodrigo-Figma" height="28" width="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> --><br><br>
 </div>
 
-![rodrigoborge's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&theme=merko&show_icons=true&hide_border=false&layout=donut) 
+![rodrigoborge's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&theme=dark&show_icons=true&hide_border=false&layout=donut) 
 
 # 📊 GitHub Stats:
 <center>
 
-![rodrigoborge's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoborge&theme=merko&hide_border=false)
-![rodrigoborge's Stats](https://github-readme-stats.vercel.app/api?username=rodrigoborge&theme=merko&show_icons=true&hide_border=false&count_private=true)
+![rodrigoborge's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoborge&theme=dark&show_border=false)
+![rodrigoborge's Stats](https://github-readme-stats.vercel.app/api?username=rodrigoborge&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 
 </center>
