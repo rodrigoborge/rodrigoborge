@@ -5,7 +5,7 @@
 
 
 # 💻 Tech Stack:
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
     <img align="center" alt="Rodrigo-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg">
     <img align="center" alt="Rodrigo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg">
     <img align="center" alt="Rodrigo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
@@ -18,13 +18,20 @@
     <img align="center" alt="Rodrigo-C++.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Rodrigo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
     <img align="center" alt="Rodrigo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
-    <img align="center" alt="Rodrigo-Figma" height="28" width="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> -->
+    <img align="center" alt="Rodrigo-Figma" height="28" width="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> --><br><br>
 </div>
 
+![rodrigoborge's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&theme=merko&show_icons=true&hide_border=false&layout=donut) 
+
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoborge&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=rodrigoborge&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+<center>
+
+![rodrigoborge's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoborge&theme=merko&hide_border=false)
+![rodrigoborge's Stats](https://github-readme-stats.vercel.app/api?username=rodrigoborge&theme=merko&show_icons=true&hide_border=false&count_private=true)
+
+
+</center>
+
 
 # 🌐 Socials:
 
