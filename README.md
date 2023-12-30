@@ -1,7 +1,7 @@
 # 🖖🏽 Hello, world. I am Rodrigo!
 - 🎓 Advertising Professional;
-- 📈 Growth Hacker
-- 💾 Software Engineering Student
+- 📈 Growth Hacker;
+- 💾 Software Engineering Student;
 
 # 👨🏾‍💻 About:
 With a Bachelor's degree in Advertising and Marketing from PUC-PR back in 2013, I have accumulated over ten years of experience immersed in the realms of digital marketing and growth hacking. I have worked with various companies, aiding in solidifying their online presence through data-driven strategies.
