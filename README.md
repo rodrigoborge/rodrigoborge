@@ -18,11 +18,11 @@ Furthermore, I sought to expand my knowledge by pursuing an MBA in Business Inte
     <br><br>
 </div>
 
-![rodrigoborge's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&theme=dark&show_icons=true&hide_border=false&layout=donut) 
+![rodrigoborge's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📊 GitHub Stats:
-![rodrigoborge's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoborge&theme=dark&show_border=false)
-![rodrigoborge's Stats](https://github-readme-stats.vercel.app/api?username=rodrigoborge&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![rodrigoborge's Stats](https://github-readme-stats.vercel.app/api?username=rodrigoborge&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![rodrigoborge's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoborge&theme=dark&hide_border=true)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigoborgee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoborge)
