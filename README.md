@@ -21,7 +21,7 @@ Furthermore, I sought to expand my knowledge by pursuing an MBA in Business Inte
 ![rodrigoborge's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoborge&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📊 GitHub Stats:
-![rodrigoborge's Stats](https://github-readme-stats.vercel.app/api?username=rodrigoborge&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ![rodrigoborge's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoborge&theme=dark&hide_border=true)
 
 ## 🌐 Socials:
