@@ -34,4 +34,3 @@ Furthermore, I sought to expand my knowledge by pursuing an MBA in Business Inte
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigoborgee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoborge)
 
 </div>
-teste
