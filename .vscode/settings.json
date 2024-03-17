@@ -1,0 +1,211 @@
+{
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": -0.5,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 17,
+    "editor.lineHeight": 1.8,
+    "terminal.integrated.fontSize": 20,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.accessibilitySupport": "off",
+    "editor.minimap.enabled": true,
+    "editor.minimap.scale": 1,
+    "gitlens.graph.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "workbench.preferredLightColorTheme": "Material Theme Ocean High Contrast",
+    "explorer.compactFolders": false,
+    "workbench.colorCustomizations": {
+        "[Material Theme Ocean High Contrast]": {
+            "activityBarBadge.background": "#BBFF00",
+            "activityBar.activeBorder": "#BBFF00",
+            "list.activeSelectionForeground": "#BBFF00",
+            "list.inactiveSelectionForeground": "#BBFF00",
+            "list.highlightForeground": "#BBFF00",
+            "scrollbarSlider.activeBackground": "#5C7A00",
+            "editorSuggestWidget.highlightForeground": "#BBFF00",
+            "textLink.foreground": "#BBFF00",
+            "progressBar.background": "#BBFF00",
+            "pickerGroup.foreground": "#BBFF00",
+            "tab.activeBorder": "#BBFF00",
+            "notificationLink.foreground": "#BBFF00",
+            "editorWidget.resizeBorder": "#BBFF00",
+            "editorWidget.border": "#BBFF00",
+            "settings.modifiedItemIndicator": "#BBFF00",
+            "settings.headerForeground": "#BBFF00",
+            "panelTitle.activeBorder": "#BBFF00",
+            "breadcrumb.activeSelectionForeground": "#BBFF00",
+            "menu.selectionForeground": "#BBFF00",
+            "menubar.selectionForeground": "#BBFF00",
+            "editor.findMatchBorder": "#BBFF00",
+            "statusBarItem.remoteBackground": "#BBFF00",
+            "activityBar.inactiveForeground": "#FAFFEB",
+            "selection.background": "#5C7A00",
+            "activityBar.foreground": "#BBFF00",
+            "sideBar.foreground": "#FAFFEB"
+        }
+    },
+    "materialTheme.accent": "Pink",
+    "explorer.decorations.badges": false,
+    "glassit.alpha": 250,
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.files.color": "#BBFF00",
+    "material-icon-theme.folders.color": "#BBFF00",
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.size": "fill",
+    "editor.quickSuggestionsDelay": 5,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "window.titleSeparator": "  ─  ",
+    "security.workspace.trust.banner": "never",
+    "npm-intellisense.packageSubfoldersIntellisense": true,
+    "javascript.autoClosingTags": true,
+    "javascript.suggest.enabled": true,
+    "terminal.integrated.cursorStyle": "line",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "prettier.jsxSingleQuote": true,
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "quokka.compactMessageOutput": true,
+    "quokka.automaticRestart": true,
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "editor.inlayHints.fontFamily": "JetBrains Mono",
+    "workbench.fontAliasing": "auto",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.cursorBlinking": true,
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "prettier.tabWidth": 4,
+    "editor.columnSelection": false,
+    "editor.wordWrapColumn": 220,
+    "editor.minimap.maxColumn": 50,
+    "editor.minimap.side": "right",
+    "material-icon-theme.activeIconPack": "nest",
+    "html.format.wrapLineLength": 180,
+    "editor.wordWrap": "on",
+    "prettier.htmlWhitespaceSensitivity": "css",
+    "prettier.printWidth": 220,
+    "material-icon-theme.saturation": 1,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "redhat.telemetry.enabled": true,
+    "code-runner.clearPreviousOutput": true,
+    "terminal.external.windowsExec": "C:\\Windows\\System32\\bash.exe",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Ubuntu (WSL)": {
+            "path": "C:\\WINDOWS\\System32\\wsl.exe",
+            "args": [
+                "-d",
+                "Ubuntu"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "window.titleBarStyle": "custom",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.guides.bracketPairs": true,
+    "workbench.colorTheme": "Aura Dark",
+    "breadcrumbs.enabled": false,
+    "wakatime.apiKey": "waka_3b6a12cf-386b-460a-8a41-be70e5b66c15",
+    "codetime.serverEntrypoint": "5eb6e9e8-71fe-58a2-aa62-6501795d84e9",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[gemfile]": {
+        "editor.defaultFormatter": "misogi.ruby-rubocop",
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+        "editor.formatOnSave": true
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+        "editor.formatOnSave": true
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 80,
+        "editor.wrappingIndent": "same"
+    },
+    "[postcss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[ruby]": {
+        "editor.defaultFormatter": "misogi.ruby-rubocop"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "eslint.alwaysShowStatus": true,
+    "files.associations": {
+        "*.ejson": "json",
+        "*.gemfile": "gemfile",
+        "*.map": "json",
+        "*.njk": "html",
+        "*.tsbuildinfo": "json",
+        ".env": "shellscript",
+        ".env.production": "shellscript",
+        ".prettierrc": "json",
+        "/etc/hosts": "shellscript",
+        "CODEOWNERS": "ignore",
+        "Procfile": "yaml",
+        "Procfile.dev": "yaml",
+        "brakeman.ignore": "json",
+        "config": "shellscript",
+        "irbrc": "ruby",
+        "pryrc": "ruby",
+        "zshrc": "shellscript"
+    },
+}
