@@ -12,6 +12,11 @@ With a Bachelor's degree in Advertising and Marketing from PUC-PR back in 2013, 
 Furthermore, I sought to expand my knowledge by pursuing an MBA in Business Intelligence in 2023, also from PUC-PR. In 2024, I decided to embark on a new academic journey in the field of Software Engineering, aiming to integrate marketing with technology. My goal is to continue driving brands forward and making a difference in the ever-dynamic digital landscape.
 <br><br>
 
+<div align="center"><br>
+    
+[![Rodrigo Borge's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoborge&hide=html,css&theme=transparent&show_icons=true)](https://github.com/rodrigoborge)
+    
+</div><br>
 # 💻 Tech Stack
 
 <div align="center"><br>
