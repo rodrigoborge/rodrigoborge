@@ -1,6 +1,7 @@
 # 🖖🏽 Hello, world. I am Rodrigo!
 
 -   🎓 Advertising Professional;
+-   💻 Martech
 -   📈 Growth Hacker;
 -   💾 Software Engineering Student;
     <br><br>
