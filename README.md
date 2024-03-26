@@ -36,7 +36,7 @@ Furthermore, I sought to expand my knowledge by pursuing an MBA in Business Inte
     <!-- <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> -->
     <!-- <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg"> -->
     <img align="center" alt="Digital-Ocean" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/digitalocean/digitalocean-original.svg">
-    <!-- <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/googlecloud/googlecloud-original.svg"> -->
+    <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/googlecloud/googlecloud-original.svg">
     <!-- <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/grafana/grafana-original.svg"> -->
     <br><br>
 </div>
