@@ -51,6 +51,6 @@ Furthermore, I sought to expand my knowledge by pursuing an MBA in Business Inte
 
 <div align="center"><br>
     
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rodrigoborge.visitor-badge&format=true)
 
 </div>
