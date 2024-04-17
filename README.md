@@ -1,19 +1,19 @@
-# 🖖🏽 Hello, world. I am Rodrigo!
+# 🖖🏽 Olá, mundo. Eu sou o Rodrigo!
 
--   🎓 Advertising Professional;
+-   🎓 Publicitário;
 -   💻 Martech
 -   📈 Growth Hacker;
--   💾 Software Engineering Student;
+-   💾 Estudante de Engenharia de Software;
     <br><br>
 
-# 👨🏾‍💻 About
+# 👨🏾‍💻 Sobre 
 
-With a Bachelor's degree in Advertising and Marketing from PUC-PR back in 2013, I have accumulated over ten years of experience immersed in the realms of digital marketing and growth hacking. I have worked with various companies, aiding in solidifying their online presence through data-driven strategies.
+Com uma graduação em Publicidade e Marketing pela PUC-PR em 2013, acumulei mais de dez anos de experiência imerso nos domínios do marketing digital e growth hacking. Trabalhei com diversas empresas, auxiliando na consolidação de sua presença online por meio de estratégias orientadas por dados.
 
-Furthermore, I sought to expand my knowledge by pursuing an MBA in Business Intelligence in 2023, also from PUC-PR. In 2024, I decided to embark on a new academic journey in the field of Software Engineering, aiming to integrate marketing with technology. My goal is to continue driving brands forward and making a difference in the ever-dynamic digital landscape.
+Além disso, busquei expandir meu conhecimento ao cursar um MBA em Inteligência de Negócios em 2023, também pela PUC-PR. Em 2024, decidi embarcar em uma nova jornada acadêmica no campo da Engenharia de Software, com o objetivo de integrar marketing com tecnologia. Minha meta é continuar impulsionando marcas e fazendo diferença no sempre dinâmico cenário digital.
 <br><br>
 
-# 💻 Tech Stack
+# 💻 Stacks
 
 <div align="center"><br>
     
@@ -41,7 +41,7 @@ Furthermore, I sought to expand my knowledge by pursuing an MBA in Business Inte
     <br><br>
 </div>
 
-# 🌐 Socials
+# 🌐 Como me encontrar
 
 <div align="center"><br>
 
