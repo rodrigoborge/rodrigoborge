@@ -48,8 +48,3 @@ Além disso, busquei expandir meu conhecimento ao cursar um MBA em Inteligência
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigoborgee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoborge) [![X](https://img.shields.io/twitter/follow/rorigoborge)](https://x.com/rodrigoborge)
 
 </div>
-
-<div align="center"><br>
-    
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rodrigoborge.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-</div>
