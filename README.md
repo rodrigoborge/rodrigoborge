@@ -1,7 +1,7 @@
 # 🖖🏽 Olá, mundo. Eu sou o Rodrigo!
 
 -   🎓 Publicitário;
--   💻 Martech
+-   💻 Martech;
 -   📈 Growth Hacker;
 -   💾 Estudante de Engenharia de Software;
     <br><br>
