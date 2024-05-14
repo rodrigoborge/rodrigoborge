@@ -3,7 +3,7 @@
 -   🎓 Publicitário;
 -   💻 Martech;
 -   📈 Growth Hacker;
--   💾 Estudante de Engenharia de Software
+-   💾 Estudante de Engenharia de Software;
     <br><br>
 
 # 👨🏾‍💻 Sobre 
